@@ -1,4 +1,7 @@
-    document.getElementsByName('html').style.backgroundColor = 'rgba(0,0,0, 1)';
+    var html = document.getElementsByName('html');
+    if(html) {
+        html.style.backgroundColor = 'rgba(0,0,0, 1)';
+    }
     // Custom rain
     var letters = "shiftSHIFT5hiftSHIFT5h!ft$HIFT｡｢｣､･ｦｧｨｩｪｫｬｭｮｯｰｱｲｳｴｵｶｷｸｹｺｻｼｽｾｿﾀﾁﾂﾃﾄﾅﾆﾇﾈﾉﾊﾋﾌﾍﾎﾏﾐﾑﾒﾓﾔﾕﾖﾗﾘﾙﾚﾛﾜﾝ".split('');
     // var letters = "shiftSHIFT5hiftSHIFT5h!ft$HIFT[]{}!@#$%^&*()_-+=".split('');
