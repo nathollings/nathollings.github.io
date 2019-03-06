@@ -1,4 +1,4 @@
-    document.getElementsByName('html').style.backgroundColor = rgba(0,0,0, 1);
+    document.getElementsByName('html').style.backgroundColor = 'rgba(0,0,0, 1)';
     // Custom rain
     var letters = "shiftSHIFT5hiftSHIFT5h!ft$HIFT｡｢｣､･ｦｧｨｩｪｫｬｭｮｯｰｱｲｳｴｵｶｷｸｹｺｻｼｽｾｿﾀﾁﾂﾃﾄﾅﾆﾇﾈﾉﾊﾋﾌﾍﾎﾏﾐﾑﾒﾓﾔﾕﾖﾗﾘﾙﾚﾛﾜﾝ".split('');
     // var letters = "shiftSHIFT5hiftSHIFT5h!ft$HIFT[]{}!@#$%^&*()_-+=".split('');
