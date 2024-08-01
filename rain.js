@@ -1,10 +1,5 @@
-//     var html = document.getElementsByName('html');
-//     if(html) {
-//         html.style.backgroundColor = 'rgba(0,0,0, 1)';
-//     }
     // Custom rain
-    var letters = "shiftSHIFT5hiftSHIFT5h!ft$HIFT｡｢｣､･ｦｧｨｩｪｫｬｭｮｯｰｱｲｳｴｵｶｷｸｹｺｻｼｽｾｿﾀﾁﾂﾃﾄﾅﾆﾇﾈﾉﾊﾋﾌﾍﾎﾏﾐﾑﾒﾓﾔﾕﾖﾗﾘﾙﾚﾛﾜﾝ".split('');
-    // var letters = "shiftSHIFT5hiftSHIFT5h!ft$HIFT[]{}!@#$%^&*()_-+=".split('');
+    var letters = "NATHELnatheliIcCOo0｡｢｣､･ｦｧｨｩｪｫｬｭｮｯｰｱｲｳｴｵｶｷｸｹｺｻｼｽｾｿﾀﾁﾂﾃﾄﾅﾆﾇﾈﾉﾊﾋﾌﾍﾎﾏﾐﾑﾒﾓﾔﾕﾖﾗﾘﾙﾚﾛﾜﾝ".split('');
     
     var fontSize = 12;
     var width = rain.width = window.innerWidth;
